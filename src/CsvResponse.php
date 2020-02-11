@@ -1,6 +1,6 @@
 <?php
 
-namespace OHWeb\Application\Responses;
+namespace nakoukal\Application\Responses;
 
 use Nette;
 
