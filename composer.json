@@ -1,0 +1,22 @@
+{
+    "name": "nakoukal/nette-csv-response",
+    "type": "library",
+    "description": "Nette CSV response",
+    "homepage": "https://github.com/nakoukal/nette-csv-response",
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Radek Nakoukal",
+            "email": "radek@nakoukal.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "nette/nette": ">=2.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nakoukal\\Application\\Responses\\": "src/"
+        }
+    }
+}
